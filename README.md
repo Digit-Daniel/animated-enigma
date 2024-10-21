@@ -1,3 +1,3 @@
 # animated-enigma
 
-Updating the animated enigma readme
+Updating the animated enigma readme. Updated again for new version.
